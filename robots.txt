@@ -1,0 +1,8 @@
+
+# Allow all search engines
+User-agent: *
+Allow: /
+
+
+# Sitemap location
+Sitemap: https://ovo-gamex.github.io/sitemap.xml
